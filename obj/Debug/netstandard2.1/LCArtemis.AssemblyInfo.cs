@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LCArtemis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee26e43ce96b302ff1e65c93806281b2b54b3072")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35974c8b11c09d93611cca905756c24ba4d4f323")]
 [assembly: System.Reflection.AssemblyProductAttribute("LCArtemis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LCArtemis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,10 @@
+C:\Users\alevi\Documents\Personali\LethalCompany\LCArtemis\obj\Debug\netstandard2.1\LCArtemis.csproj.AssemblyReference.cache
+C:\Users\alevi\Documents\Personali\LethalCompany\LCArtemis\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\alevi\Documents\Personali\LethalCompany\LCArtemis\obj\Debug\netstandard2.1\LCArtemis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alevi\Documents\Personali\LethalCompany\LCArtemis\obj\Debug\netstandard2.1\LCArtemis.AssemblyInfoInputs.cache
+C:\Users\alevi\Documents\Personali\LethalCompany\LCArtemis\obj\Debug\netstandard2.1\LCArtemis.AssemblyInfo.cs
+C:\Users\alevi\Documents\Personali\LethalCompany\LCArtemis\obj\Debug\netstandard2.1\LCArtemis.csproj.CoreCompileInputs.cache
+C:\Users\alevi\Documents\Personali\LethalCompany\LCArtemis\obj\Debug\netstandard2.1\LCArtemis.sourcelink.json
+C:\Users\alevi\Documents\Personali\LethalCompany\LCArtemis\bin\Debug\netstandard2.1\LCArtemis.deps.json
+C:\Users\alevi\Documents\Personali\LethalCompany\LCArtemis\bin\Debug\netstandard2.1\LCArtemis.dll
+C:\Users\alevi\Documents\Personali\LethalCompany\LCArtemis\obj\Debug\netstandard2.1\LCArtemis.dll
